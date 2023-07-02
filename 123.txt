@@ -1,0 +1,6 @@
+Metadata stored on Filecoin and IPFS with URL: ipfs://bafyreicpcm5mr3wplqe6esjgmqykpjqgsus3prejack76ll5fhesgadpty/metadata.json
+
+Contract deployed to address: 0x09f770e756d0EAa6eAABd416BdFB55ec77F9E02d
+
+NFT minted to:  0x76405c870b95Bd352AD15D6b42B9e0a4250aF496
+
